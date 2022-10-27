@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+src/assets/Home/profilephoto.jpg
+Vishakha_Resume.pdf
 
 # testing
 /coverage
